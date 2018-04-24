@@ -11,9 +11,29 @@ There are a number of different types of substitution cipher. If the cipher oper
 ## Requirements
 * Python 3.x
 * Installing the following packages using brew:
-	* brew python3
+	 * brew python3
 * Pycharm 
 
 ## How to use the script
-* Open File "__main__.py" Open it using the text editor you are using Left mouse button From the Options menu, click "Run"
+* Open File "__main__.py" Open it using the text editor you are using Left mouse button From the Options menu, click "Run".
+<img src="images/1.png">
+
+* Wait until the program opens this way.
+<img src="images/2.png">
+
+## Select the encryption type.
+* mode22 
+	* This is used to encrypt text messages
+* mode23 
+	* This is used to decrypt text messages
+	
+## mode22	
+<img src="images/3.png">
+	
+## mode23 	
+<img src="images/4.png">
+
+Thank you for using this script under the slogan "Achieve your dream or die while you are trying"
+
+
 
