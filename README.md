@@ -1,7 +1,7 @@
 # Encrypt-messages
 A program for encrypting and decrypting text messages in a single script with the use of the technology MonoAlphabetic/Substitution cipher known in the world of encryption
 
-# MonoAlphabetic/Substitution
+# MonoAlphabetic | Substitution
 In cryptography, a substitution cipher is a method of encrypting by which units of plaintext are replaced with ciphertext, according to a fixed system; the "units" may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth. The receiver deciphers the text by performing the inverse substitution.
 
 Substitution ciphers can be compared with transposition ciphers. In a transposition cipher, the units of the plaintext are rearranged in a different and usually quite complex order, but the units themselves are left unchanged. By contrast, in a substitution cipher, the units of the plaintext are retained in the same sequence in the ciphertext, but the units themselves are altered.
