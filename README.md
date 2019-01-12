@@ -1,4 +1,4 @@
-# Encrypt-messages
+# Encrypt Messages
 A program for encrypting and decrypting text messages in a single script with the use of the technology MonoAlphabetic/Substitution cipher known in the world of encryption
 
 # MonoAlphabetic | Substitution
