@@ -10,6 +10,7 @@ There are a number of different types of substitution cipher. If the cipher oper
 
 ## Requirements
 * Python 3.x
+* pip install tk
 * Installing the following packages using brew:
 	 * brew python3
 * Pycharm 
